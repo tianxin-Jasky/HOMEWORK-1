@@ -2,11 +2,11 @@
 ### 第一次作业
 ---
 #### 1.ping指令使用   
-ping另外一台计算机
+ping另外一台计算机</br>
 ![](Screenshot/ping指令.png )
 
 #### 2.tracert指令使用
-tracert一个服务器
+tracert一个服务器</br>
 ![](Screenshot/tracert指令.png )
 
 
