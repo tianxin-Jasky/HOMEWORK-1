@@ -11,7 +11,7 @@
 
 截图如下：
 
-![ping1](ping1.png)
+![ping1](https://github.com/20192021855-DCAN/HOMEWORK-1/blob/master/2017302580059/ping1.png)
 
 可见，四次均成功，还能看到一些具体的时间数据
 ***
@@ -21,7 +21,7 @@
 
 截图如下：
 
-![ping2](ping2.png)
+![ping2](https://github.com/20192021855-DCAN/HOMEWORK-1/blob/master/2017302580059/ping2.png)
 
 ping不通，均丢失。与代理服务器无法连通
 ***
@@ -35,6 +35,6 @@ ping不通，均丢失。与代理服务器无法连通
 
 截图如下：
 
-![tracert](tracert.png)
+![tracert](https://github.com/20192021855-DCAN/HOMEWORK-1/blob/master/2017302580059/tracert.png)
 
 成功跟踪
