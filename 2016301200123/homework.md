@@ -13,7 +13,7 @@ ping www.baidu.com
 得：
 
 <p align="center">
-	<img src="ping_baidu.png" alt="Sample" width="50%" height="50%">
+	<img src="ping_baidu.png" alt="ping_baidu" width="50%" height="50%">
 </p>
 
 可见本机与百度服务器网络连接状况较好、延迟较低。
@@ -29,7 +29,7 @@ ping 192.168.0.101
 得：
 
 <p align="center">
-	<img src="ping_machine_LAN.png" alt="Sample" width="50%" height="50%">
+	<img src="ping_machine_LAN.png" alt="ping_machine_LAN" width="50%" height="50%">
 </p>
 
 比较让人意外的是，在百度服务器和本机之间的往返行程的估计时间竟然短于局域网内的另一台机器与本机之间的。
@@ -45,7 +45,7 @@ ping 192.168.0.105 # 本机在该局域网内的ip
 得：
 
 <p align="center">
-	<img src="ping_self_LAN.png" alt="Sample" width="50%" height="50%">
+	<img src="ping_self_LAN.png" alt="ping_self_LAN" width="50%" height="50%">
 </p>
 
 本次结果在意料之中，延迟远小于前两次实验。
@@ -65,7 +65,7 @@ tracert www.baidu.com
 得：
 
 <p align="center">
-	<img src="tracert_baidu.png" alt="Sample" width="50%" height="50%">
+	<img src="tracert_baidu.png" alt="tracert_baidu" width="50%" height="50%">
 </p>
 
 #### 2.2 tracert 局域网内的另一台设备
@@ -79,7 +79,7 @@ tracert 192.168.0.101
 得：
 
 <p align="center">
-	<img src="tracert_machine_LAN.png" alt="Sample" width="50%" height="50%">
+	<img src="tracert_machine_LAN.png" alt="tracert_machine_LAN" width="50%" height="50%">
 </p>
 
 显然，从本地到局域网内的另一台设备所经过的节点少于从本机到百度服务器的。
