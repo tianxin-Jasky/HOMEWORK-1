@@ -3,11 +3,11 @@
 ---
 #### 1.ping指令使用   
 ping另外一台计算机
-![](Screenshot\ping指令.png )
+![](https://github.com/20192021855-DCAN/HOMEWORK-1/tree/master/2017302580292/Screenshot/ping指令.png )
 
 #### 2.tracert指令使用
 tracert一个服务器
-![](Screenshot\tracert指令.png )
+![](Screenshot/tracert指令.png )
 
 
 
